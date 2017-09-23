@@ -14,4 +14,26 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Archivos/2_0.png</name>
+			<type>1</type>
+			<location>C:/Users/Agustín/Documents/Eclipse Workspace/GOT/src/Archivos/2_0.png</location>
+		</link>
+		<link>
+			<name>src/Archivos/fondo.jpg</name>
+			<type>1</type>
+			<location>C:/Users/Agustín/Documents/Eclipse Workspace/GOT/src/Archivos/fondo.jpg</location>
+		</link>
+		<link>
+			<name>src/Archivos/j1.png</name>
+			<type>1</type>
+			<location>C:/Users/Agustín/Documents/Eclipse Workspace/GOT/src/Archivos/j1.png</location>
+		</link>
+		<link>
+			<name>src/Archivos/mapa.txt</name>
+			<type>1</type>
+			<location>C:/Users/Agustín/Documents/Eclipse Workspace/GOT/src/Archivos/mapa.txt</location>
+		</link>
+	</linkedResources>
 </projectDescription>
