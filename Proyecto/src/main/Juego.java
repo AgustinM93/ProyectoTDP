@@ -32,7 +32,7 @@ public class Juego {
 	
 	public void pantallaPrincipal(){
 		
-		/*final JFrame mainTitle=new JFrame("Battle City");
+		/*final JFrame mainTitle=new JFrame("GOT");
 		   mainTitle.setVisible(true);
 		   mainTitle.setResizable(false);
 		   mainTitle.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
