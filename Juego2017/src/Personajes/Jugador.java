@@ -1,5 +1,7 @@
 package Personajes;
 
+import java.awt.Image;
+
 import javax.swing.Icon;
 import javax.swing.ImageIcon;
 import javax.swing.JLabel;
@@ -46,8 +48,9 @@ public class Jugador extends Personajes{
     public int getFrecuenciaDisparos(){
     	 return frecuencia_disparos;
     }
-     
-     
     
+  
+     
+
 
 }
