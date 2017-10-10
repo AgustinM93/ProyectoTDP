@@ -81,7 +81,7 @@ public class map{
 				}else {
 					eliminarEnemigo();
 					gui.repaint();
-					score+=50;
+					score+=E1.getPuntaje();
 					puntaje.setText(""+score);
 					cont=0;
 					

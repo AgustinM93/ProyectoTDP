@@ -12,10 +12,11 @@ public class Enemigo extends Personajes {
 	protected int frecuencia_disparos;
 	private int alto;
 	private int ancho;
+	private int puntaje;
 	
 	
 	public Enemigo(celda c,int prof) {
-		
+		puntaje=50;
 		alto=30;
     	ancho=30;
     	cell=c;
@@ -32,6 +33,10 @@ public class Enemigo extends Personajes {
 		graficos[1]=new ImageIcon(this.getClass().getResource("/Archivos/j1.png"));
 		
 		grafico.setIcon(graficos[1]);
+	}
+	
+	public int getPuntaje() {
+		return puntaje;
 	}
 	
 	public int getAlto(){
